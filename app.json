@@ -9,7 +9,7 @@
         "Pixeldrain"
     ],
     "website": "https://github.com/Reindears",
-    "repository": "https://github.com/Reindears/Cloudsy",
+    "repository": "https://github.com/vivian-wis/Cloudsy",
     "success_url": "https://telegram.dog/SyBots",
     "env": {
         "BOT_TOKEN": {
